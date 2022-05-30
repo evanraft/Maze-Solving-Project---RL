@@ -1,4 +1,4 @@
-# Maze-Solving-Project-RL
+# Solving Maze using Reinforcement Learning
 
 Coursework COMP6247: Solving static maze problem using Reinforcement Learning (Q-Learning)
 
